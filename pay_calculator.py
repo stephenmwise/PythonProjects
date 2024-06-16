@@ -21,7 +21,7 @@ after_tax_pay = int(pre_tax_pay - taxes_removed)
 weeks_2 = after_tax_pay * 2
 weeks_4 = after_tax_pay * 4
 weeks_6 = after_tax_pay * 6
-#Totals time and income to user
+#Totals time and income to user. test
 print(f"you worked {total_hours} hours this week")
 print(f"You earned ${after_tax_pay} after taxes, and ${taxes_removed} was taxed.")
 print(f"If you work this much for 2 weeks you'll earn ${weeks_2} and if 4 weeks: ${weeks_4}")
