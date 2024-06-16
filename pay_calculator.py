@@ -25,5 +25,3 @@ weeks_6 = after_tax_pay * 6
 print(f"you worked {total_hours} hours this week")
 print(f"You earned ${after_tax_pay} after taxes, and ${taxes_removed} was taxed.")
 print(f"If you work this much for 2 weeks you'll earn ${weeks_2} and if 4 weeks: ${weeks_4}")
-print(f"If 6 weeks, ${weeks_6}")
-print("test")
